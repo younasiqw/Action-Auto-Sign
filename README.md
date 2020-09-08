@@ -6,6 +6,8 @@
 |[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/网易云音乐签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%AD%BE%E5%88%B0) |
 |[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/百度贴吧自动签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0) |
 |[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/京东每日签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E4%BA%AC%E4%B8%9C%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0) |
+|[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions) |
+
 
 <details>
   <summary><b>京东使用教程</b></summary>
