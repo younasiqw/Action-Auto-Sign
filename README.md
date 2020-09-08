@@ -1,10 +1,6 @@
 ![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&hide=issues&show_icons=true)
 
-# Action Auto Sign
-
-用来签到的东东
-
-目前已支持[@NobyDa](https://github.com/NobyDa) 以及[@lxk0301](https://github.com/lxk0301) 中京东签到的内容,优点是支持无限数量的京东cookie
+# Action Auto Sign — 京东，百度，网易云音乐自动签到
 
 <details>
   <summary><b>京东使用教程</b></summary>
