@@ -10,8 +10,8 @@
 ##
 目前已支持[@NobyDa](https://github.com/NobyDa) 以及[@lxk0301](https://github.com/lxk0301) 中京东签到的内容,优点是支持无限数量的京东cookie
 
-## 京东使用教程
-
+<details>
+  <summary><b>京东使用教程</b></summary>
 1. 直接fork走
 2. 再在`Settings`-`Secrets`里面添加`JD_COOKIE`
 3. 多条cookie用`&`隔开，支持无数条cookie
@@ -82,7 +82,10 @@ pt_pin=***;
 pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 ```
 
-## 百度使用说明
+</details>
+
+<details>
+  <summary><b>百度使用教程</b></summary>
 
 1. Fork 本仓库，然后点击你的仓库右上角的 Settings，找到 Secrets 这一项，添加一个秘密环境变量。其中 `BDUSS` 存放你的 BDUSS。支持同时添加多个帐户，BDUSS 之间用 `#` 隔开即可。
 
@@ -103,7 +106,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 4. 至此自动签到就搭建完毕了，可以再次点击`Actions`查看工作记录，如果有`Baidu Tieba Auto Sign`则说明workflow创建成功了。点击右侧记录可以查看详细签到情况。
 
 ![修改workflow](assets/check.png)
-
+</details>
 
 ### fork后如何同步代码
 
