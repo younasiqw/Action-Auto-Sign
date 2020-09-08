@@ -73,6 +73,9 @@ pt_pin=***;
 我有两个京东账号,则我JD_COOKIE里面要填写的内容为
 pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 ```
+### fork后如何同步代码 
+
+http://www.ibloger.net/article/3361.html
 
 </details>
 
@@ -142,8 +145,3 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
    ![image-20200727142617807](https://i.loli.net/2020/07/27/87oQeLJOlZvU3Ep.png)
 </details>
-
-##### fork后如何同步代码 
-
-http://www.ibloger.net/article/3361.html
-
