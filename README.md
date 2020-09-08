@@ -7,6 +7,8 @@
 |[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/百度贴吧自动签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0) |
 |[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/京东每日签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E4%BA%AC%E4%B8%9C%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0) |
 
+**提示：**点击页面右上角Star标志可手动运行一次所有签到。
+
 <details>
   <summary><b>京东使用教程</b></summary>
 1. 直接fork走
