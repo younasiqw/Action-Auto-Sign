@@ -3,7 +3,7 @@
 # Action Auto Sign — 京东，百度，网易云音乐自动签到
 
 
-*提示:点击页面右上角Star标志可手动运行一次所有签到。*
+*提示：点击页面右上角Star标志可手动运行一次所有签到。*
 
 <details>
   <summary><b>京东使用教程</b></summary>
