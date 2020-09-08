@@ -1,11 +1,9 @@
-![sazs34’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&show_icons=true&theme=merko)
+![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&show_icons=true&theme=merko)
 
-# MyActions
+# Action Auto Sign
 自己用来签到的东东,不支持售后
 
 目前[@lxk0301](https://github.com/lxk0301) 的代码仅剩种豆得豆不支持无限京东账号了,等待最后这个也支持后,此项目就没啥用了~
-
-更新时间:2020-9-7 11:57:39
 
 > 兼容最新的代码
 
