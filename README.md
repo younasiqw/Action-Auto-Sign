@@ -104,7 +104,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 ![修改workflow](assets/check.png)
 </details>
 
-***fork后如何同步代码***
+##### fork后如何同步代码 
 
 http://www.ibloger.net/article/3361.html
 
