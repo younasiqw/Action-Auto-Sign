@@ -2,6 +2,8 @@
 
 # Action Auto Sign — 京东，百度，网易云音乐自动签到
 
+[![](https://github.com/IvanSolis1989/Action-Auto-Sign/workflows/网易云音乐签到/badge.svg)](https://github.com/IvanSolis1989/Action-Auto-Sign/actions?query=workflow%3A%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%AD%BE%E5%88%B0) 
+
 <details>
   <summary><b>京东使用教程</b></summary>
 1. 直接fork走
