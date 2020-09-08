@@ -5,9 +5,8 @@
 
 目前[@lxk0301](https://github.com/lxk0301) 的代码仅剩种豆得豆不支持无限京东账号了,等待最后这个也支持后,此项目就没啥用了~
 
-> 兼容最新的代码
+兼容最新的代码
 
-##
 目前已支持[@NobyDa](https://github.com/NobyDa) 以及[@lxk0301](https://github.com/lxk0301) 中京东签到的内容,优点是支持无限数量的京东cookie
 
 <details>
@@ -108,7 +107,7 @@ pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 ![修改workflow](assets/check.png)
 </details>
 
-### fork后如何同步代码
+**fork后如何同步代码**
 
 参考
 
