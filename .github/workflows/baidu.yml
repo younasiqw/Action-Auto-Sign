@@ -1,13 +1,10 @@
 name: '百度贴吧自动签到'
 
 on:
-  push:
-    branches:
-      - master
   schedule:
-    - cron: '5 16,22 * * *'
+    - cron: '45 15 * * *'
   watch:
-    types: started
+      types: started
 
 jobs:
   tieba_sign:
