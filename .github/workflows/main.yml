@@ -1,4 +1,4 @@
-name: 'Baidu Tieba Auto Sign'
+name: '百度贴吧自动签到'
 
 on:
   push:
