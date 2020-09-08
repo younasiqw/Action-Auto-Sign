@@ -1,4 +1,4 @@
-![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&show_icons=true&theme=merko)
+![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&hide=issues&show_icons=true)
 
 # Action Auto Sign
 自己用来签到的东东,不支持售后
