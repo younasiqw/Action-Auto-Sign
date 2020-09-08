@@ -2,7 +2,7 @@ name: '百度贴吧自动签到'
 
 on:
   schedule:
-    - cron: '45 15 * * *'
+    - cron: '5 16,22 * * *'
   watch:
       types: started
 
