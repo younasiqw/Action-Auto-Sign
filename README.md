@@ -1,5 +1,3 @@
-![IvanSolis1989’s github stats](https://github-readme-stats.vercel.app/api?username=IvanSolis1989&hide=issues&show_icons=true)
-
 # Action Auto Sign — 京东，百度，网易云音乐自动签到
 
 
