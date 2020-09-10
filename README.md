@@ -1,4 +1,4 @@
-[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Action-Auto-Sign-visitor-badge)](#readme)
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Action-Auto-Sign-visitor-badge)](#readme) [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FIvanSolis1989%2FAction-Auto-Sign%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/IvanSolis1989/Action-Auto-Sign/goto?ref=master)
 
 # Action Auto Sign — 京东，百度，网易云音乐自动签到
 
