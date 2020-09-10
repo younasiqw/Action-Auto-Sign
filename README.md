@@ -1,3 +1,5 @@
+[![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Action-Auto-Sign-visitor-badge)](#readme)
+
 # Action Auto Sign — 京东，百度，网易云音乐自动签到
 
 
